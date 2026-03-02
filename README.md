@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+My name's Kerlys Domenech and this is my super special repository, so you can know a little part of me .
+I've finished my mayor's degree in psychologist but now i'm a coder at riwi.
+✨✨I'm currently learning english and software development✨✨
+ 🔭i like to make craft and sew, of course in a machine's sewing.
+ 🔭i consider myself as a proactive, quiet, quickly learning and happines person
+my personals pronouns is "(she/her)😄😄
 <!--
 **Kerdomenech/Kerdomenech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
